@@ -1,7 +1,7 @@
 +++
 title = 'VoxelForge Development log 2024-09-02'
 date = 2024-09-02T21:39:34+01:00
-featured_image = '/images/my-image.jpg'
+featured_image = '/images/24w34c.png'
 +++
 ## Introduction
 
