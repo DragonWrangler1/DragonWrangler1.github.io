@@ -12,7 +12,7 @@ Hello. Today we'll be talking about all the progress made over the last month of
 Bundles have been introduced under an experimental setting allowing users to put up to 64 items in them at one time and drop them on right-click. They have been improved a good bit since they were first introduced back in Alpha 0.4.0 - Pre 4.
 
  - Bundles no longer drop items with extra metadata meaning that they can stack perfectly with items not dropped by bundles
- - Bundles use a technique that allows similar functionality to minecraft. Meaning that you can insert items directly into the bundle via the inventory. Pretty sweet huh ?
+ - Bundles use a technique that allows similar functionality to minecraft. Meaning that you can insert items directly into the bundle via the inventory.
  - Bundles are creative only, and under an experimental setting meaning there is no recipe for them yet.
  - Unlike MineCraft's bundles. The Developers of VoxelForge feel like swords and throwable items should be able to stack up to 64 items in the bundle.
 
@@ -68,7 +68,7 @@ Bundles have been introduced under an experimental setting allowing users to put
 Even with all those changes we're still working hard to get even more content. Keep on the lookout for the next big update in the coming weeks.
 
 ## Downloading the latest release
-You can download the latest release at [ContentDB](https://content.minetest.net/VoxelForge/voxelforge)
+You can download the latest release at [ContentDB](https://content.minetest.net/packages/VoxelForge/voxelforge)
 
 ### Testing New Versions Make break your world, Please make a backup to ensure there are no side-effects from the update.
 
