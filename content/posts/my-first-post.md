@@ -1,6 +1,6 @@
 +++
-title = 'My First Post'
-date = 2024-01-14T07:07:07+01:00
+title = 'VoxelForge Development log 2024-09-02'
+date = 2024-09-02T21:39:34+01:00
 +++
 ## Introduction
 
