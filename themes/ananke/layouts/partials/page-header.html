@@ -2,8 +2,8 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <!-- Changed background to transparent to avoid darkening the image -->
-    <div style="height: 80vh; background: transparent;"> <!-- Remove bg-black-80 and set background to transparent -->
+    <!-- Ensure no dark overlay is applied -->
+    <div style="height: 100vh; background: none;"> <!-- Use background: none to clear any background color -->
       {{ partial "site-navigation.html" . }}
       <div class="tc-l ph3 ph8-ns">
           {{ with .Params.description  }}
@@ -21,3 +21,4 @@
     </div>
   </header>
 {{ end }}
+
