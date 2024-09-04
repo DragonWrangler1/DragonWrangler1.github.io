@@ -3,7 +3,7 @@
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <!-- Add a style to double the height -->
-    <div class="bg-black-80" style="height: 80vh;"> <!-- Use height: 100vh; to double the height -->
+    <div class="bg-black-100" style="height: 80vh;"> <!-- Use height: 100vh; to double the height -->
       {{ partial "site-navigation.html" . }}
       <div class="tc-l ph3 ph8-ns">
           {{ with .Params.description  }}
