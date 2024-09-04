@@ -8,6 +8,7 @@
   background_color_class = "bg-black"
   recent_posts_number = 3
   customCSS = ["css/_custom.css"]
+  googleAnalytics = "G-LNNC3DLFWN"
   
 [[params.ananke_socials]]
 name = "minetest"
