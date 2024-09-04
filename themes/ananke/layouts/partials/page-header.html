@@ -1,21 +1,24 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
-  <!-- Black header at the top -->
-  <header class="black-header" style="background-color: black; padding: 10px 0; text-align: center; color: white;">
+  <!-- Fixed black header at the top -->
+  <header class="black-header" style="position: fixed; top: 0; left: 0; width: 100%; height: 10%; background-color: black; padding: 1px 1; text-align: center; color: white; z-index: 1000;">
     {{ partial "site-navigation.html" . }}
   </header>
 
-  <!-- Image container with margins -->
-  <div class="image-container" style="margin: 20px auto; max-width: 90%; border-radius: 10px; overflow: hidden;">
-    <!-- Background image with smaller size -->
-    <div class="cover bg-top" style="background-image: url('{{ $featured_image }}'); height: 70vh; background-size: cover; background-position: center;">
-      <div style="height: 100%; background: none;">
-        <div class="tc-l ph3 ph8-ns">
-            {{ with .Params.description  }}
-              <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-                {{ . }}
-              </div>
-            {{ end }}
+  <!-- Content container with margin to account for the fixed header -->
+  <div class="content" style="margin-top: 50px;"> <!-- Adjust margin-top as needed -->
+    <!-- Image container with margins -->
+    <div class="image-container" style="margin: 20px auto; max-width: 90%; border-radius: 10px; overflow: hidden;">
+      <!-- Background image with smaller size -->
+      <div class="cover bg-top" style="background-image: url('{{ $featured_image }}'); height: 70vh; background-size: cover; background-position: center;">
+        <div style="height: 100%; background: none;">
+          <div class="tc-l ph3 ph8-ns">
+              {{ with .Params.description  }}
+                <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+                  {{ . }}
+                </div>
+              {{ end }}
+          </div>
         </div>
       </div>
     </div>
