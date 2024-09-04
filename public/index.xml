@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>VoxelForge</title>
+    <link>http://github.com/VoxelForge/</link>
+    <description>Recent content on VoxelForge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 21:39:34 +0100</lastBuildDate><atom:link href="http://github.com/VoxelForge/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <title>VoxelForge Development log 2024-09-02</title>
+      <link>http://github.com/VoxelForge/posts/voxelforge-dev-log-2024-09-02/</link>
+      <pubDate>Mon, 02 Sep 2024 21:39:34 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>http://github.com/VoxelForge/posts/voxelforge-dev-log-2024-09-02/</guid>
+      <description>Introduction Hello. Today we&amp;rsquo;ll be talking about all the progress made over the last month of development. So let&amp;rsquo;s dive right in.
+Experimental Features Bundles Bundles have been introduced under an experimental setting allowing users to put up to 64 items in them at one time and drop them on right-click. They have been improved a good bit since they were first introduced back in Alpha 0.4.0 - Pre 4.</description>
     </item>
     
   </channel>

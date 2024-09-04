@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://github.com/VoxelForge/posts/</loc>
+    <lastmod>2024-09-02T21:39:34+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://github.com/VoxelForge/</loc>
+    <lastmod>2024-09-02T21:39:34+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://github.com/VoxelForge/posts/voxelforge-dev-log-2024-09-02/</loc>
+    <lastmod>2024-09-02T21:39:34+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://github.com/VoxelForge/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://github.com/VoxelForge/tags/</loc>
   </url>
 </urlset>

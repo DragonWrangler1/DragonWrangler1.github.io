@@ -3,13 +3,15 @@
   <div class="flex-l mt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
       <header>
+        <!-- Display the image instead of the title text -->
         <h1 class="f1">
-          {{ .Title }}
+          <img src="{{ .Image }}" alt="{{ .Title }}" class="w-100" />
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "dark-gray" }}">
         {{ .Content }}
       </div>
     </article>
   </div>
 {{ end }}
+
