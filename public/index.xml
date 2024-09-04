@@ -6,7 +6,17 @@
     <description>Recent content on VoxelForge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 21:39:34 +0100</lastBuildDate><atom:link href="http://github.com/VoxelForge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 23:51:04 +0100</lastBuildDate><atom:link href="http://github.com/VoxelForge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VoxelForge Weekly Release 24w36b</title>
+      <link>http://github.com/VoxelForge/posts/voxelforge-weekly-release-24w36a/</link>
+      <pubDate>Tue, 03 Sep 2024 23:51:04 +0100</pubDate>
+      
+      <guid>http://github.com/VoxelForge/posts/voxelforge-weekly-release-24w36a/</guid>
+      <description>Hello. Today We&amp;rsquo;ve released a new Weekly dev release for VoxelForge. This one finishes up some old features, and fixes several bugs.
+Experimental Features Bundles Bundles now have new images . (Editor&amp;rsquo;s Note: the old ones were only 22% different from MC meaning we only had a 2% buffer can you imagine that ? Only 2%.) Changes Added Datapacks. (Editor&amp;rsquo;s Note: Currently unused) New 1.21 Banner Patterns. New 1.21 Pottery Sherds.</description>
+    </item>
+    
     <item>
       <title>VoxelForge Development log 2024-09-02</title>
       <link>http://github.com/VoxelForge/posts/voxelforge-dev-log-2024-09-02/</link>
