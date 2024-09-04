@@ -1,19 +1,25 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
-  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <!-- Ensure no dark overlay is applied -->
-    <div style="height: 100vh; background: none;"> <!-- Use background: none to clear any background color -->
-      {{ partial "site-navigation.html" . }}
-      <div class="tc-l ph3 ph8-ns">
-          {{ with .Params.description  }}
-            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              {{ . }}
-            </div>
-          {{ end }}
+  <!-- Black header at the top -->
+  <header class="black-header" style="background-color: black; padding: 10px 0; text-align: center; color: white;">
+    {{ partial "site-navigation.html" . }}
+  </header>
+
+  <!-- Image container with margins -->
+  <div class="image-container" style="margin: 20px auto; max-width: 90%; border-radius: 10px; overflow: hidden;">
+    <!-- Background image with smaller size -->
+    <div class="cover bg-top" style="background-image: url('{{ $featured_image }}'); height: 70vh; background-size: cover; background-position: center;">
+      <div style="height: 100%; background: none;">
+        <div class="tc-l ph3 ph8-ns">
+            {{ with .Params.description  }}
+              <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+                {{ . }}
+              </div>
+            {{ end }}
+        </div>
       </div>
     </div>
-  </header>
+  </div>
 {{ else }}
   <header>
     <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
