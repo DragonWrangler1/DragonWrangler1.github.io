@@ -1,3 +1,7 @@
 module:
   hugoVersion:
     min: "0.84.0"
+    
+params:
+  customCSS:
+    - css/_custom.css
