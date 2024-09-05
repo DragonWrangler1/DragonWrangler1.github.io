@@ -71,7 +71,7 @@ Even with all those changes we're still working hard to get even more content. K
 ## Downloading the latest release
 You can download the latest release at [ContentDB](https://content.minetest.net/packages/VoxelForge/voxelforge)
 
-### Testing New Versions Make break your world, Please make a backup to ensure there are no side-effects from the update.
+### Testing New Versions May break your world, Please make a backup to ensure there are no side-effects from the update.
 
  - Report bugs here:
 [VoxelForge Issue Tracker](https://github.com/VoxelForge/VoxelForge/issues)!
