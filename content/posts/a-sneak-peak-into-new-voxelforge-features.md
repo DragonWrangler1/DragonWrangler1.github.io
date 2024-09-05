@@ -13,5 +13,5 @@ Well recently we've forked the MT engine and we're giving it an update.
 We're changing the world size from 16 bit integer (31007 map limit) to 32 bit integer (meaning the generation number is a whopping 2,147,483,008 (much much much bigger)) 
 The only downside is database size, which is why we will not be making that giant number the average. And to prove we've done it, the image provided shows the player at X 100,000
 
-However that's not all. We've also been working on updating liquids to be more minecraft like, and also we've been adding, glow to node textures, better shaders, animated inventory images, and more.
+However that's not all. We've also been working on updating liquids to be more minecraft like, and also we've been adding, emissive textures, better shaders, animated inventory images, and more.
 Stay tuned for more details on development.
