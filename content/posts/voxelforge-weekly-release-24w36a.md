@@ -4,7 +4,7 @@ date = 2024-09-03T23:51:04+01:00
 featured_image = '/images/24w36a.png'
 +++
 
-Hello. Today We've released a new Weekly dev release for VoxelForge. This one finishes up some old features, and fixes several bugs.
+Hello. Today we've released a new Weekly dev release for VoxelForge. This one finishes up some old features, and fixes several bugs.
 
 ## Experimental Features
 
@@ -38,7 +38,7 @@ Hello. Today We've released a new Weekly dev release for VoxelForge. This one fi
 ## Downloading the latest release
 You can download the latest release at [ContentDB](https://content.minetest.net/packages/VoxelForge/voxelforge)
 
-### Testing New Versions Make break your world, Please make a backup to ensure there are no side-effects from the update.
+### Testing New Versions May break your world, Please make a backup to ensure there are no side-effects from the update.
 
  - Report bugs here:
 [VoxelForge Issue Tracker](https://github.com/VoxelForge/VoxelForge/issues)!
