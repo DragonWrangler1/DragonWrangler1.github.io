@@ -10,7 +10,7 @@ Hello. Today we're releasing the final release for the week. This one adds some 
 ## Changes
  - Added A new Cavegen api
 
-(Editor's Note: Bug reports for this aren't officially supported unless it is breaking. If users want they can submit feature requests and/or PRs for improvement.)
+(Editor's Note: This is quite laggy. It will greatly improve come Minetest 5.9.0 full support, however minimum MT version is 5.7.0. Min version will be 5.9.0 once 5.11.0 is released. Bug reports for this aren't officially supported unless it is breaking. If users want they can submit feature requests and/or PRs for improvement.)
 
 ## Bugs Fixed.
  - [VLF-146](https://github.com/VoxelForge/VoxelForge/issues/146) Fixed Strange cactus damage calculation
