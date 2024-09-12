@@ -30,6 +30,7 @@ featured_image = '/images/24w37a.png'
  - Added new api features to vlf_enhancments mod. Allowing for only enhancing items with specific ones rather than excluding specific ones.
  - removed ominous potion (Editor's Note: It was replaced with ominous bottles 1-5.)
  - Decorated pots can now be used to store items.
+ - Silverfish now summon reinforcements.
 
 
 ## Performance
