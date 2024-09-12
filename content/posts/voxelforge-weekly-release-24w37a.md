@@ -1,5 +1,5 @@
 +++
-title = 'VoxelForge Weekly Release 24w37c'
+title = 'VoxelForge Weekly Release 24w37d'
 date = 2024-09-12T20:39:12+01:00
 featured_image = '/images/24w37a.png'
 +++
