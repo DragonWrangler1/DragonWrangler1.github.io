@@ -35,6 +35,8 @@ featured_image = '/images/24w37a.png'
 
 ## Performance
  - Candles now only use 1 abm for particles instead of 3.
+ - Fireflies now despawn.
+ - Fireflies now don't give as many particles on death.
 
 ## Bugs Fixed
  - [VLF-138](https://github.com/VoxelForge/VoxelForge/issues/138) Still cases of entity_effective in code.
@@ -52,6 +54,10 @@ featured_image = '/images/24w37a.png'
  - [VLF-167](https://github.com/VoxelForge/VoxelForge/issues/167) Mangrove leaves drop unknown items.
  - [VLF-168](https://github.com/VoxelForge/VoxelForge/issues/168) Ominous bottles have only one level and are potions.
  - [VLF-169](https://github.com/VoxelForge/VoxelForge/issues/169) Raid captains give bad omen effect instead of dropping ominous bottle.
+ - [VLF-175](https://github.com/VoxelForge/VoxelForge/issues/175) Crafting guide initiation causes large delay when loading the world.
+ - [VLF-176](https://github.com/VoxelForge/VoxelForge/issues/176) Texture Change.
+ - [VLF-177](https://github.com/VoxelForge/VoxelForge/issues/177) Fireflies dying in the sun causes lots of lag.
+ - [VLF-178](https://github.com/VoxelForge/VoxelForge/issues/178) Fireflies never despawn.
 
 
 ## Downloading the latest release
