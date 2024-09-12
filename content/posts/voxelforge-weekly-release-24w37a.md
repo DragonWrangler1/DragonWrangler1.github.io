@@ -67,4 +67,4 @@ You can download the latest release at [ContentDB](https://content.minetest.net/
 
 
 
-Now. After all. Go test out the features for yourself. See you next week and enjoy :-)
+Now. After reading all that. Go test out the features for yourself. See you next week and enjoy :-)
