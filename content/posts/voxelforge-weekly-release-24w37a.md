@@ -31,6 +31,7 @@ featured_image = '/images/24w37a.png'
  - removed ominous potion (Editor's Note: It was replaced with ominous bottles 1-5.)
  - Decorated pots can now be used to store items.
  - Silverfish now summon reinforcements.
+ - Added new Respiration enhancment for helmets.
 
 
 ## Performance
