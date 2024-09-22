@@ -1,6 +1,6 @@
 +++ 
 title = 'VoxelForge Alpha 0.5.0 Pre Release 2' 
-date = 2024-09-22T3:36:37+01:00
+date = 2024-09-22T03:36:37+01:00
 featured_image = '/images/a-0_5-pre-1.png'
 +++
 
