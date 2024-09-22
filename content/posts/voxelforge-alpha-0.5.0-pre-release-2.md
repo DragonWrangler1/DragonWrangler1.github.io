@@ -1,7 +1,7 @@
 +++ 
 title = 'VoxelForge Alpha 0.5.0 Pre Release 2' 
 date = 2024-09-22T03:36:37+01:00
-featured_image = '/images/a-0_5-pre-1.png'
+featured_image = '/images/a-0_5-pre-2.png'
 +++
 
 Well. After Accidently forgetting to include the patch in earlier's patch release. We're back again with Alpha 0.5.0  Pre Release #2
