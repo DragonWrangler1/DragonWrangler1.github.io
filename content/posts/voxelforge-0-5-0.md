@@ -1,8 +1,9 @@
++++ 
+title = 'Traps & Treasures Out Now' 
+date = 2024-10-03T20:00:00+01:00 
+featured_image = '/images/b-0_5.png' 
 +++
-title = 'Traps & Treasures Out Now.'
-date = 2024-10-03T21:00:00+01:00
-featured_image = '/images/b-0_5.png'
-+++
+
 Traps & Treasures is finally here.
 
 It's a very good day today. Not only because it's Thursday, but also because it's Release Thursday. After one and a half months of work. We bring you
